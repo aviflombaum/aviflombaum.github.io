@@ -1,0 +1,21 @@
+# Site settings
+title: Programming is Awesome
+header-img: img/home-bg.png
+email: avi@flombaum.com
+copyright_name: aviflombaum
+description: > # this means to ignore newlines until "baseurl:"
+  Powered by Coffee and Code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: aviflombaum
+github_username:  aviflombaum
+learn_profile: aviflombaum
+email_username: avi@flombaum.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
