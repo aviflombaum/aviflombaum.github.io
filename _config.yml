@@ -1,15 +1,14 @@
 # Site settings
+author: Avi Flombaum
 title: Programming is Awesome
 header-img: img/home-bg.png
 email: avi@flombaum.com
-copyright_name: aviflombaum
+copyright_name: Avi Flombaum
 description: > # this means to ignore newlines until "baseurl:"
   Powered by Coffee and Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: aviflombaum
 github_username:  aviflombaum
-learn_profile: aviflombaum
-email_username: avi@flombaum.com
 
 # Build settings
 markdown: kramdown
